@@ -12,7 +12,7 @@ spec:
     directory:
       recurse: true
     path: app
-    repoURL: https://github.com/siamaksade/openshift-gitops-getting-started.git
+    repoURL: https://github.com/bipaul97/Argo-CD/tree/main
     targetRevision: main
   syncPolicy:
     automated:
